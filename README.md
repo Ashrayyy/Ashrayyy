@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ashray Tiwari</h1>
-<h3 align="center">A passionate Android Developer and competitive programmer.</h3>
+<h3 align="center">A passionate Android Developer and Competitive Programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrayyy&label=Profile%20views&color=0e75b6&style=flat" alt="ashrayyy" /> </p>
 
