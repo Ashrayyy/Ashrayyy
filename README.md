@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashrayyy" alt="ashrayyy" /></a> </p>
 
-- 🔭 I’m currently working on **SpotBot**
+- 🔭 I’m currently working on **AshChess - Chess Engine**
 
-- 🌱 I’m currently learning **NodeJs, MongoDB**
+- 🌱 I’m currently getting better at **NodeJs**
 
 - 📫 How to reach me **ashrayy.tiwari@gmail.com**
 
