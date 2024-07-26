@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently getting better at **Server Side Programming** 
 
-- 📫 How to reach me **ashrayy.tiwari@gmail.com**
+- 📫 Reach me at **ashrayy.tiwari@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1JuhEu1uGh7bM_GtYvRtcI_7nNZ4YLyLl/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1OIAIM48BGSFPgdypzr4ZbBs7iNmDQ7O6/view?usp=drive_link)
 
 - ⚡ Fun fact: **If it looks like I am free, I'm not, I am just thinking about some Chess position in my head**
 
